@@ -37,4 +37,4 @@ This is a Python GUI project for a restaurant management system. The application
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, feel free to contact the project maintainer at your-email@example.com.
+If you have any questions or suggestions regarding this project, feel free to contact the project maintainer at aaryanprothi.m37a@gmail.com
