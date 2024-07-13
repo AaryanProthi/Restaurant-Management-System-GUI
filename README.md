@@ -24,7 +24,7 @@ This is a Python GUI project for a restaurant management system. The application
 2. Install the required dependencies, including PySimpleGUI and MySQL Connector: `pip install PySimpleGUI mysql-connector-python`.
 3. Set up a MySQL database to store the application's data.
 4. Update the database connection details in the source code to establish a connection with your MySQL database.
-5. Run the application: `name_of_parent_file.py`.
+5. Run the application: `csproject.py`.
 6. Use the GUI to navigate through different sections of the restaurant management system.
 7. Add, update, or delete employee, customer, menu, and order data as needed.
 8. Generate bills for customers based on their orders.
